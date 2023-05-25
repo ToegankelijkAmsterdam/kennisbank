@@ -1,6 +1,6 @@
-###### Oct 12th, 2012
+###### 25 mei 2023
 
-Day 3: Stockholm by boat
+Toegankelijkheid
 ------------------------
 
 ![](img/boat1.jpg "Dog living on a houseboat at the harbour")
